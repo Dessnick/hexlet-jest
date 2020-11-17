@@ -2,7 +2,6 @@
   "name": "hexlet-jest",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --colors"
@@ -12,7 +11,16 @@
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
-    "babel-jest": "^26.6.2",
-    "jest": "^26.6.2"
-  }
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dessnick/hexlet-jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dessnick/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Dessnick/hexlet-jest#readme",
+  "description": ""
 }
